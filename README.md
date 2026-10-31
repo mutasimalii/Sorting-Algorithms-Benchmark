@@ -53,6 +53,8 @@ java SortingBenchmark
 2. Insertion و Bubble سريعان جداً على البيانات المرتبة، بينما Selection لا يستفيد من الترتيب.
 3. في Quick Sort اختيار المحور مهم: لو المحور دائماً آخر عنصر، الحالة المرتبة/المعكوسة تصير سيئة. في الكود اخترت العنصر الوسط كمحور عشان الأداء يبقى أفضل.
 
-## File
+## Files
 
-- `SortingBenchmark.java`
+- `SortingBenchmark.java` 
+- `نتائج_الترتيب.xlsx` (جدول النتائج + الرسوم في Excel)
+
